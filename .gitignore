@@ -1,0 +1,6 @@
+
+.venv/
+venv/
+config.py
+requirements.txt
+contract_master.csv
