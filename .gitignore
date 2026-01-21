@@ -1,7 +1,11 @@
 
+__pycache__/
 .venv/
 venv/
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
 config.py
-requirements.txt
 contract_master.csv
-.idea
+
